@@ -1,11 +1,17 @@
-## Hi there 👋 it's Alfred Mehlo Abomnvu Maseko Botile Ganandana 
+## Hi there 👋 Mr Xolani Ganandana.
 
 <!--
 **ZAOO7-XG/ZAOO7-XG** is a ✨ _special_ ✨ repository because its not an ordinary repository due to the projects ✌️ systems ✋ Financial Emancipation Practices provided By the Company Code in Hand 18_TNR_LAWS.
 
-Here are some ideas to get you started:
+Project Name: Temperance Movement Rgeduction 
 
-- 🔭 I’m currently working on WHAT my Angelic Messengers Guide me on🙏 LORD KNOWS 🙏 I've been through and through until to this Day✌️CODE 👍 INOMBOLO 👆 18#42246#$7$#1$18👍👆 Foreign policy🐍 Safety for Women and Children 🧐 Projects to keep everyone Busy 🤨 Creation of a Free Community on Social Judgements, Temperance movement move to Railways🇿🇦THE AIM IS REDIRECT ALL SOCIAL PREJUDICED ACTIONS🇿🇦.
+The Aim is to Channel all of the Unholy Movements into one Group that literally exclude all non participants and get them back to using Railways as before.
+
+Tap Code #42246#7#$1$@@6/7 to use the Project.
+
+Contributions from others is to strictly forbidden the Foreign policy on the STREETS OF SOUTH AFRICA WITH THE JEHS BEING THE LEADERS OF RELIGION 👑 
+
+LISENCE: HEART FULL OF GOOD DEEDS FOR SELF AND OTHERS.
 
 BY
 MR XOLANI GANANDANA FOUNDER OF THE BRAVE MAGIC COMPANY/TeamNoRest.
