@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://your-image-link.com/banner.png) <!-- Replace with your own banner image URL -->
+![Banner](https://raw.githubusercontent.com/ZA007-XG/ZA007-XG/main/banner.png) <!-- Replace with your own banner image URL -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ZAOO7-XG" alt="Profile views" />
