@@ -1,4 +1,99 @@
+<!-- Banner -->
+![Banner](https://your-image-link.com/banner.png) <!-- Replace with your own banner image URL -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ZAOO7-XG" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/ZAOO7-XG?style=social" alt="GitHub followers" />
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/twitter/follow/yourhandle?style=social" alt="Twitter Follow"></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+</p>
+
+# 👋 Hi, I’m ZAOO7-XG
+
+---
+
+## 📚 Table of Contents
+- [About Me](#about-me)
+- [Advocacy Spotlight](#advocacy-spotlight)
+- [Skills & Tools](#skills--tools)
+- [Featured Projects](#featured-projects)
+- [GitHub Stats](#github-stats)
+- [Contact](#contact)
+- [Fun Fact](#fun-fact)
+
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 Passionate about **public health advocacy** and **substance abuse prevention** in South Africa.
+- 💻 Enjoy coding, data analysis, and building impactful projects.
+- 🌍 Committed to community-driven tech for social good.
+
+---
+
+## 📣 Advocacy Spotlight
+
+> I’m dedicated to advancing public health and substance abuse prevention in South Africa through technology, data, and community engagement.
+
+<details>
+  <summary>Click to see my advocacy involvement</summary>
+
+- 🏥 Leading awareness and education campaigns
+- 📊 Analyzing data for substance abuse trends
+- 🤝 Collaborating with NGOs, researchers, and youth organizations
+- 🗣️ Promoting open data and technology in health advocacy
+</details>
+
+---
+
+## 🛠️ Skills & Tools
+
+- **Languages:** Python | R | SQL | JavaScript | HTML | CSS
+- **Data Science:** Pandas | Matplotlib | Jupyter | Power BI
+- **Web:** Flask | Node.js | Git & GitHub
+- **Other:** Public Health Data, Community Outreach, Advocacy Strategy
+
+---
+
+## 🌟 Featured Projects
+
+| Project | Description | Link |
+| ------- | ----------- | ---- |
+| Youth Drug Abuse Model | Data-driven insights into youth substance abuse trends | [View Repo](https://github.com/victoriamuinde07/Youth-drug-abuse-model) |
+| My Advocacy Dashboard | Interactive dashboard for tracking advocacy outcomes | [View Repo](#) |
+| [Temperance movement induced utility systems] | [Full Control of Streets, Give safety and busyness to the Society] | [View Repo](#) |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZAOO7-XG&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZAOO7-XG&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ZAOO7-XG&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📬 Contact
+
+- Email: alfredkholisilemaseko@gmail.com
+- [LinkedIn](https://linkedin.com/in/XolaniGanandana)
+- [Cell]063 577 5759
+
+---
+
+## ⚡ Fun Fact
+
+> I believe every line of code can change a life—especially when it’s for a good cause!
+
+---
+
+-->
+
 ## Hi there 👋 It's ZA007-XG.
+
 
 
 
