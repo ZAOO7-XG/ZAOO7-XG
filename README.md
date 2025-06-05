@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://raw.githubusercontent.com/ZA007-XG/ZA007-XG/main/banner.png) <!-- [Click here to open your Canva banner template](https://www.canva.com/design/DAFz4y4DDI8/SFjJ7QdRa5KkJH1a-9kYMA/edit?utm_content=DAFz4y4DDI8&utm_campaign=designshare&utm_medium=link&utm_source=editor) -->
+![Banner](https://raw.githubusercontent.com/ZA007-XG/ZA007-XG/main/banner.png) <!-- (https://www.canva.com/design/DAFz4y4DDI8/SFjJ7QdRa5KkJH1a-9kYMA/edit?utm_content=DAFz4y4DDI8&utm_campaign=designshare&utm_medium=link&utm_source=editor) -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ZAOO7-XG" alt="Profile views" />
