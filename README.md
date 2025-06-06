@@ -148,3 +148,60 @@ LINKEDIN:@Xolani Ganandana
 
 #Cell# 063 577 5759
 -->
+# Contributing to [Temperance Movement Utility systems]
+
+Thank you for your interest in contributing! Our mission is to:
+- Control drug distribution and selling.
+- Provide NGOs’ programs to society.
+- Offer skill-uplifting programs for youth.
+- Promote sporting codes as compulsory for the youth.
+- Build a youth substance abuse prevention model.
+
+We welcome contributions that help us achieve these goals. Please read through the following guidelines to get started.
+
+---
+
+## How Can You Contribute?
+
+### 1. Suggest Features or Improvements
+- Propose new features that align with our mission, such steps to reproduce it.
+- Mention your environment (OS, browser, etc.) if relevant.
+
+### 3. Write Code
+- Fork the repository and create a new branch (`git checkout -b feature/YourFeature`).
+- Ensure your code follows the project’s style and includes comments/docstrings.
+- Write tests where applicable.
+- Submit a pull request with a clear explanation of your changes and how they contribute to our goals.
+
+### 4. Improve Documentation
+- Help us keep our documentation clear and up to date!
+- Fix typos, clarify instructions, or add new sections to help users and contributors.
+- Suggestions for NGO program descriptions, skill training modules, or sporting code guidelines are especially welcome.
+
+### 5. Community Outreach & Content
+- Share resources or ideas to engage youth, NGOs, and the community.
+- Propose content for skill-building, substance abuse prevention, or sports promotion.
+
+---
+
+## Code of Conduct
+
+Please be respectful and inclusive. We are building a community for positive social change. Read our [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) for details.
+
+---
+
+## Commit Messages
+
+- Use clear, descriptive commit messages.
+- Reference issues or features in your commits, e.g., `Fix #12: Added skill training module`.
+
+---
+
+## Need Help? Questions?
+
+- Open an issue with your question or suggestion.
+- Connect with maintainers for guidance on getting started.
+
+---
+
+** helping us make a difference!**
